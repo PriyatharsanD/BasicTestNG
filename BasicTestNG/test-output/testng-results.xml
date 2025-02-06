@@ -2,20 +2,16 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-06T13:37:05 IST" name="Default suite" finished-at="2025-02-06T13:37:44 IST" duration-ms="38505">
+  <suite started-at="2025-02-06T17:31:18 IST" name="Default suite" finished-at="2025-02-06T17:31:18 IST" duration-ms="652">
     <groups>
     </groups>
-    <test started-at="2025-02-06T13:37:05 IST" name="Default test" finished-at="2025-02-06T13:37:44 IST" duration-ms="38505">
-      <class name="com.testng.extendReport.ReportGeneration">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.testng.extendReport.ReportGeneration@73a1e9a9]" started-at="2025-02-06T13:37:05 IST" name="beforeSuite" finished-at="2025-02-06T13:37:05 IST" duration-ms="253" status="PASS">
+    <test started-at="2025-02-06T17:31:18 IST" name="Default test" finished-at="2025-02-06T17:31:18 IST" duration-ms="652">
+      <class name="com.testng.batchExecution.OpenAmazonTest">
+        <test-method signature="readFile()[pri:0, instance:com.testng.batchExecution.OpenAmazonTest@9597028]" started-at="2025-02-06T17:31:18 IST" name="readFile" finished-at="2025-02-06T17:31:18 IST" duration-ms="610" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeSuite -->
-        <test-method signature="searchCourseTest()[pri:0, instance:com.testng.extendReport.ReportGeneration@73a1e9a9]" started-at="2025-02-06T13:37:05 IST" name="searchCourseTest" finished-at="2025-02-06T13:37:44 IST" duration-ms="38467" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- searchCourseTest -->
-      </class> <!-- com.testng.extendReport.ReportGeneration -->
+        </test-method> <!-- readFile -->
+      </class> <!-- com.testng.batchExecution.OpenAmazonTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

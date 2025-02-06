@@ -1,0 +1,77 @@
+PRIYATHARSAN D 
+AUTOMATION TEST ENGINEER (JAVA SELENIUM) 
+Contact: +91 7397318502 | priyatharsan09990@gmail.com |linkedin.com/in/priyatharsand 
+Objective 
+Automation Test Engineer with 3+ years of experience in designing, developing, and executing automated test 
+frameworks using Selenium and Java. Proficient in ensuring software quality, identifying and troubleshooting 
+defects, and streamlining testing processes to enhance efficiency and reliability. Seeking to leverage my expertise in 
+automation testing and analytical skills to contribute to the delivery of high-quality software solutions in a dynamic 
+and growth-oriented organization. 
+ 
+Technical Skills  
+ Programming languages: Proficiency in languages like Java,  
+ Selenium WebDriver: A strong understanding of Selenium WebDriver  
+ Analytical skills: Good analytical skills to create effective test scripts  
+ Attention to detail: Attention to detail to identify issues accurately  
+ Software development practices: Understanding CI/CD concepts and workflows  
+ Code writing: Writing code to simulate user actions  
+ Web browser interaction: Interacting with web browsers and web elements using technologies such as 
+HTML, CSS, and JavaScript  
+Other skills that an automation test engineer should have include: 
+ Problem-solving skills to identify issues, debug test scripts, and find solutions  
+ Knowledge of version control systems like Git to manage test scripts and collaborate with the development 
+team  
+ Effective communication and collaboration skills to clearly articulate test plans, results, and 
+recommendations  
+Project Experience: 
+Project Title: Money-In Applications – TestYantra Software Solution  
+Roles & Responsibilities:  
+ Worked as Automation Tester to Automate Regression and Functional Testcases for each release using 
+Java and Selenium. 
+ Identify Testcases to Automate and Complete Automation within Release Timeline. 
+ Involved in Design and Test Plan Development activities.  
+ Create Testcase, execute testcases and track defects using ALM. 
+ Involved in project meetings to review progress on releases. 
+ Help team in testing and requirement understanding as and when required. 
+ Execute Regression for each build and share reports with teams on build stability. 
+Project Title: Siebel CRM Test Automation for Tier 1 India Telecom provider Environment:  
+Role and Responsibilities: 
+ Understood the application architecture along with detailed use cases for each of the 22 circles 
+ Conceptualized the test framework and Developed methods using POM as part of Method Driven 
+Framework 
+ Create a unique test plan to automate common scenarios across circles while having unique circle 
+specific tests 
+ Prepared strategy for automating the Siebel CRM application using Java, Selenium Web Driver and JSCH 
+ Mentored the team during the test suite creation and cross checked the scripts against use cases 
+ Monitor the execution of Automation scripts on different browsers with support for parallel execution 
+ Lead the team during test execution phase including test artefact ownership & reporting 
+ Worked with the Test Manager to analyse the CR’s, estimate the work and ensured that regression and 
+smoke test pack were suitably updated 
+ 
+ 
+Project Title: BLW New / T-COM AG EMEA for a Major European Telco 
+Environment: Oracle BPEL, Soap UI 
+Role and Responsibilities: 
+ Prepare Test Plan and Test Strategy 
+ Understand functional requirements and create test scripts in line with these requirements 
+ Design the test plan and get sign off from stakeholders 
+ Monitor the test execution and support the team during the testing sprints 
+ Automate the regression tests using Soap UI 
+ Create a set of re-usable libraries for common functionalities using Method driven Framework 
+ Create traceability matrix for multiple sprints within the release 
+ Ensure concise and crisp test reports were sent to the project management to effectively convey test 
+execution status 
+ Responsible for driving CR impact analysis, estimations, update test execution plans and updating baseline 
+scripts for CR’s. 
+Education 
+ Bachelor of Engineering – Mechanical and Automation 
+Anna University | Graduated: 2021 
+Rank Holder: 1st out of 112 students in the department 
+CGPA: 9.02/10 
+Achievements & Awards 
+ Best Student Award: Awarded Best Student in Mechanical and Automation Department at Mahendra Engineering 
+College (2018 & 2019) for outstanding academic performance and contributions to extracurricular activities 
+Thank You 
+ 
+         Signature 
+            [PRIYATHARSAN D] 
